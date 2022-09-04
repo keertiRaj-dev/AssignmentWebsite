@@ -1,0 +1,95 @@
+
+.event {
+position: relative;
+background: #070707;
+
+}
+
+.heading {
+  position: absolute;
+  width: 393px;
+  height: 75px;
+  left: 524px;
+  top: 867px;
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 75px;
+  text-align: center;
+  color: #FFFFFF;
+}
+
+.para {
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+box-sizing: border-box;
+position: absolute;
+width: 816px;
+height: 85px;
+left: 312px;
+top: 968px;
+background: #1F1F1F;
+border-radius: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+.student {
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+box-sizing: border-box;
+position: absolute;
+width: 212px;
+height: 85px;
+left: 315px;
+top: 1082px;
+background: #1F1F1F;
+border-radius: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.founder {
+  font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+box-sizing: border-box;
+position: absolute;
+width: 296px;
+height: 86px;
+left: 551px;
+top: 1082px;
+background: #1F1F1F;
+border-radius: 20px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.pro {
+font-family: Poppins;
+font-size: 20px;
+font-weight: 700;
+line-height: 75px;
+letter-spacing: 0em;
+text-align: center;
+position: absolute;
+width: 254px;
+height: 86px;
+left: 871px;
+top: 1082px;
+background: #1F1F1F;
+border-radius: 20px;
+text-align: center;
+color: #FFFFFF;
+}

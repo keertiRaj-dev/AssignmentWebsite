@@ -1,0 +1,18 @@
+.navbar-top {
+position: absolute;
+margin-left: 0px;
+margin-top: 0px;
+height: 49px;
+width: 1440px;
+border-radius: 0px;
+background: linear-gradient(74.87deg, #0DC789 23.62%, #89CE69 78.59%);
+}
+.navbar-mid {
+  position: absolute;
+  width: 1440px;
+  height: 81.61px;
+  left: 0.07px;
+  top: 49px;
+  background: rgba(30, 30, 30);
+
+}
